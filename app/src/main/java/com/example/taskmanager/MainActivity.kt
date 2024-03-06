@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     }
     fun onRegisterLinkClick(view: View) {
         // Start the registration activity or navigate to the registration screen
-        val intent = Intent(this, register::class.java)
+        val intent = Intent(this, RegisterActivity::class.java)
         startActivity(intent)
     }
 }

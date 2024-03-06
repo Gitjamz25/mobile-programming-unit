@@ -23,7 +23,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="609dp"
         android:gravity="center"
-        android:text="Task Manager"
+        android:text="WinCara"
         android:textColor="#EF950A"
         android:textSize="48sp" />
 
